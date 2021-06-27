@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "yosemity-ionic",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
